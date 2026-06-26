@@ -1,0 +1,5 @@
+.env
+bin/
+build/
+node_modules/
+nyowzers-lib/
